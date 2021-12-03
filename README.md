@@ -5,4 +5,4 @@ Bing Translator App (BTA) Translate More then 100+ Languages GLOBEL BING
 This the thumb
 
 ## Download App
-[Download](https://www.mediafire.com/file/cvdxprkm103w0nz/Translato_App-1.0-amd64.msi/file)
+[Download](https://download1327.mediafire.com/ne9fbk4k9uhg/cvdxprkm103w0nz/Translato+App-1.0-amd64.msi)
