@@ -5,4 +5,4 @@ Bing Translator App (BTA) Translate More then 100+ Languages GLOBEL BING
 This the thumb
 
 ## Download App
-[Download](https)
+[Download](https://drive.google.com/drive/u/0/folders/1YD4BZ_IPkjZ3hRtGlRiZq8B3Z5o2WLmQ)
